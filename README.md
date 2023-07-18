@@ -12,7 +12,7 @@ I have built a Netflix landing page clone with HTML and CSS. It closely resemble
 
 Live Demo:
 
-   
+   https://nishap24.github.io/Nisha-P-Netflix-landing-page-clone/
 ## Authors
 
 - [NK💛](https://www.github.com/nishap24) 
